@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="referrer" content="no-referrer">
+<title>SocialHub</title>
+<body style="background:#04060a;color:#d3dde8;font:16px system-ui;display:grid;place-items:center;height:100vh;margin:0">
+<p id="m">Returning to SocialHub…</p>
+<script>
+  // Meta only accepts public https redirect URLs, but SocialHub runs on the owner's own computer.
+  // This page hands the one-time login code straight back to the local hub; nothing is stored here.
+  var q = location.search;
+  if (/[?&]state=/.test(q)) location.replace('http://127.0.0.1:4777/oauth/callback' + q);
+  else document.getElementById('m').textContent = 'Nothing to do here.';
+</script>
