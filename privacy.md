@@ -14,4 +14,4 @@ SocialHub is a private tool used only by its owner to manage the owner's own soc
 
 **Keeping and deleting data.** While an account is connected, its statistics are refreshed from the platform every few hours. Disconnecting an account in SocialHub deletes its stored token and the statistics received from that platform, and stops all access. Access can also be revoked at any time in the platform's own settings; for Google/YouTube at the [Google security settings page](https://myaccount.google.com/permissions). If access is revoked there, SocialHub can no longer read anything and the owner disconnects the account in SocialHub to delete what was stored.
 
-**Contact.** Open an issue on this repository.
+**Contact.** nicebackfisch@gmail.com

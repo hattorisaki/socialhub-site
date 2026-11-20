@@ -6,4 +6,4 @@ It is not a public service. Nobody else can sign up or use it.
 
 [Privacy Policy](privacy.html) · [Terms of Service](terms.html)
 
-Questions: open an issue on this repository.
+Questions: nicebackfisch@gmail.com

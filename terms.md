@@ -10,4 +10,4 @@ The owner is responsible for the content posted and for following the rules of e
 
 SocialHub is provided as is, without any warranty.
 
-Contact: open an issue on this repository.
+Contact: nicebackfisch@gmail.com
